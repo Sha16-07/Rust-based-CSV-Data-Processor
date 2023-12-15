@@ -4,7 +4,7 @@ This Rust-based CSV Data Processor is designed for efficient handling and proces
 
 
 # Features
-Fast CSV Parsing: Leverages Rust's performance to quickly parse large CSV files.
-Data Transformation: Supports various data manipulation operations like filtering, sorting, and aggregation.
-Customizable Processing Logic: Easily extendable for custom data processing needs.
-Error Handling: Robust error handling to manage and report processing anomalies.
+- Fast CSV Parsing: Leverages Rust's performance to quickly parse large CSV files.
+- Data Transformation: Supports various data manipulation operations like filtering, sorting, and aggregation.
+- Customizable Processing Logic: Easily extendable for custom data processing needs.
+- Error Handling: Robust error handling to manage and report processing anomalies.
